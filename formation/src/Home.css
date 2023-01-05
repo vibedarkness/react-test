@@ -1,0 +1,14 @@
+.container{
+    background-color: whitesmoke;
+    border-radius: 2%;
+    width: 60%;
+    height: 180px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    overflow: hidden;
+}
+.container:hover {
+    background-color: rgb(182, 209, 224);
+  }
